@@ -1,0 +1,7 @@
+
+
+# no standalone exe in repo
+zapret.exe
+release_asset.exe
+Launch.exe
+bin/.wd/
